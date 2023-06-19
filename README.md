@@ -1,5 +1,4 @@
 # html-portfolio
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="UTF-8">
@@ -59,9 +58,7 @@
                 </td>
             </tr>
         </table>
-
         <hr>
         <p><a href="contactMe.html">Contact Me</a></p>
-
     </body>
 </html>
