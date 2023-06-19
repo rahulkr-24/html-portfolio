@@ -3,7 +3,6 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Rahul's CV</title>
     </head>
     <body bgcolor= "#ffffe6">
         <table>
